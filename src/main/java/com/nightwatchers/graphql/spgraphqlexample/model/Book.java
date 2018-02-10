@@ -13,8 +13,8 @@ import javax.persistence.Table;
 
 @Setter
 @Getter
-@AllArgsConstructor
-@NoArgsConstructor
+//@AllArgsConstructor
+//@NoArgsConstructor
 @Table
 @Entity
 public class Book {
