@@ -1,2 +1,2 @@
-# GraphQL API for Fetching Books [![Build Status](https://travis-ci.org/p632-sp-2018/sp-graphql-example.svg?branch=master)](https://travis-ci.org/p632-sp-2018/sp-graphql-example)
+# GraphQL API for Fetching Books [![Build Status](https://travis-ci.org/p632-sp-2018/sp-graphql-example.svg?branch=master)](https://travis-ci.org/p632-sp-2018/sp-graphql-example) [![Code Climate](https://codeclimate.com/github/p632-sp-2018/sp-graphql-example/badges/gpa.svg)](https://codeclimate.com/github/p632-sp-2018/sp-graphql-example)
 Make requests from the client application to the API and this API renders books data from im-memory database.
